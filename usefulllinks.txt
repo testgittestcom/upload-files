@@ -1,0 +1,99 @@
+		
+
+http://www.tutorialrepublic.com/html-reference/html5-aside-tag.php
+
+
+
+themes - 
+	http://demo.dankov-theme.com/?theme=pioneer
+	http://livedemo00.template-help.com/wt_58434_v1/typography.html
+	http://livedemo00.template-help.com/constrex_v1-2/	
+	https://wrapbootstrap.com/tag/gallery	
+	http://templates.entheosweb.com/keywords.asp?ke=career	
+	http://preview.themeforest.net/item/exline-one-page-parallax-template/full_screen_preview/12800359?ref=cirvitis		
+
+	https://www.templatemonster.com/demo/58888.html	
+
+portfilio:
+	http://isotope.metafizzy.co/
+	http://www.queness.com/resources/html/simple-portfolio-page/index.html
+
+Template:-
+	http://templates.cakemail.com/details/launch.it
+	https://www.freshdesignweb.com/free-bootstrap-templates/
+
+https://www.flipkart.com/giftvalley-exclusive-manjeera-ganesh-statue-showpiece-13-cm/p/itmef7jtmjmbcect?pid=SHIEF7JTFXFHHDCH&srno=s_1_3&otracker=search&lid=LSTSHIEF7JTFXFHHDCH74QBAC&qH=967109590b2ad98b
+	
+
+Remote-debugging:-
+	https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
+
+Online Merge :-
+	https://www.diffchecker.com/diff 				
+
+test :
+
+
+Mind Conceneration tips:-
+	http://www.memory-improvement-tips.com/improve-your-concentration.html
+
+
+3d flip animation: http://css3.bradshawenterprises.com/flip/
+
+
+
+
+
+Three Js learning:
+
+	1.https://www.html5rocks.com/en/tutorials/three/intro/
+	2.https://threejs.org/docs/index.html#Manual/Introduction/
+	3.file:///C:/Praveen-files/threejs/three.js-master/examples/canvas_ascii_effect.html
+
+
+owl carousal:-old
+http://www.owlcarousel.owlgraphic.com/demos/rtl.html
+
+
+gitup helpers:
+	https://github.com/jackmoore
+
+basics:
+http://techfunda.com/howto/482/custom-directive-with-templateurl
+
+PDF creation using php menual:
+	
+https://mpdf.github.io/reference/mpdf-functions/setprotection.html
+
+
+php simple projects:
+	http://www.learningaboutelectronics.com/Articles/How-to-create-a-register-and-login-page-using-PHP.php
+
+
+
+
+advanced themes:
+http://theme.stepofweb.com/Smarty/v1.2.1/HTML/ls-4.html
+http://theme.stepofweb.com/Smarty/v1.2.1/HTML/ls-6.html
+http://carv.ai/
+http://www.mstudio.com/
+https://www.prashantsani.com/
+http://jetlag.photos/9/iceland
+
+
+3d canvas basic:
+http://seenjs.io/demo-mocap.html
+http://petercollingridge.appspot.com/3D-tutorial
+http://www.html5canvastutorials.com/
+
+3d image using jquery
+http://ajnainfotech.com/#/services
+
+Learning:
+http://javahonk.com/category/
+
+font creation
+http://www.glyphrstudio.com/online/
+
+svg docs:
+http://devdocs.io/svg/tutorial/basic_shapes
